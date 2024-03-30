@@ -1,6 +1,8 @@
-![Thumbnail video tutorial](https://github.com/wass08/r3f-portfolio-baking/assets/6551176/1a844eef-562b-48f5-a9bb-ab9b15432a7d)
+# Scene Baking using Bender
 
-[Video tutorial](https://youtu.be/YkHqpqJgLKw)
+![image](https://github.com/Sodium-Man/NamaN-3D-Portfolio-Scene-Baking/assets/110275891/0f38117c-8413-4531-8b56-63f900230ffa)
+
+
 
 ## Blender files are inside the blender folder
 You'll need to download and import the textures from Poly Haven.
